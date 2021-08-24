@@ -1,5 +1,5 @@
 # DropAR<br>
-what if we can view and play with our clicked pictures in augmented reality...<br>
+What if we can view and play with our clicked pictures in augmented reality...<br>
 DropAR concept allows seeing photos in Augmented Reality while storing them to the gallery! <br>
 <br>
 ![vlcsnap-2021-08-24-17h37m06s253](https://user-images.githubusercontent.com/60938632/130613598-c2e24339-89f4-41ef-ac5f-1b9d7b3776de.png)
